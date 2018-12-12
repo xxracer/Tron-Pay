@@ -13,6 +13,6 @@ amount: 100
 
 object: payment
 
-So you can keep track of why you received or sent and how much.
+So you can keep a history, so that you received or sent and quantity, from the same host you can know which user sent it. and you can keep a record and control of all your transactions
 
 I hope you join this revolutionary idea
